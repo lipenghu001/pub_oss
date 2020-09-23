@@ -1,0 +1,25 @@
+{
+  "name": "@sfed/pub_oss",
+  "version": "0.0.4",
+  "description": "上传文件到OSS",
+  "bin": {
+    "pub_oss": "./bin/pub_oss.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparrow-genius/pub_oss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparrow-genius/pub_oss/issues"
+  },
+  "homepage": "https://github.com/sparrow-genius/pub_oss#readme",
+  "dependencies": {
+    "ali-oss": "^6.10.0"
+  }
+}
